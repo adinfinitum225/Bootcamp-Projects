@@ -16,7 +16,7 @@ The column 'Category and Subcategory' was split into two separate 'Parent Catego
 ### Analysis of Outcomes Based on Launch Date
 
 The first factor in the success of a kickstarter campaigns we were interested in looking at was how well the campaigns did based on their launch dates. For this we created a pivot table using the years and parent category as filters, date created as the rows, and outcomes as the columns. We then filtered the parent category to look only at campaigns that were for 'theater'. To better visualize the data we created a line chart with markers to show how the time of year the campaign was launched correlated with the campaign outcome. 
->![Figure 1. Line chart showing outcomes of campaigns over time](/resources/Theater_Outcomes_vs_Launch.png)
+>![Figure 1. Line chart showing outcomes of campaigns over time](resources/Theater_Outcomes_vs_Launch.png)
 >Figure 1. In this chart we see that the number of successful campaigns drops as the year goes on, while the number of failed campaigns remains relatively consistent. 
 
 ### Analysis of Outcomes Based on Goals
