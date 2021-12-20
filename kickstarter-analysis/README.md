@@ -21,14 +21,18 @@ The first factor in the success of a kickstarter campaigns we were interested in
 
 ### Analysis of Outcomes Based on Goals
 
+We know that Louise estimates the cost of producing her play will come to about $12,000 so we needed to take a look at how her campaign goal will affect her chances of success. Using Excel's `=COUNTIFS()` function we filtered the data to only look at plays, and then into groups based on their goals and outcomes, grouped in increments of $5,000. From there we calculated the percentage in each group that was successful and the percentage that failed. We again created a line chart to better visualize any trends in this data. Up to goals of about $30,000 the increasing goal amount is positively correlated with failure and negatively correlated with success. Higher amounts then that do not seem to have any trend however. 
+>![Figure 2. Line chart showing outcomes of campaigns based on goal amount](resources/Outcomes_vs_Goals.png)
+>Figure 2. In this chart we see that up to a certain amount a larger goal is more likely to result in failure.
+
 ### Challenges and Difficulties Encountered
 
 ## Results
 
-- What are two conclusions you can draw about the Outcomes based on Launch Date?
+<!-- - What are two conclusions you can draw about the Outcomes based on Launch Date? -->
 
-- What can you conclude about the Outcomes based on Goals?
+<!--- What can you conclude about the Outcomes based on Goals? -->
 
-- What are some limitations of this dataset?
+<!--- What are some limitations of this dataset? -->
 
-- What are some other possible tables and/or graphs that we could create?
+<!--- What are some other possible tables and/or graphs that we could create? -->
