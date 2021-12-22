@@ -27,12 +27,18 @@ We know that Louise estimates the cost of producing her play will come to about 
 
 ### Challenges and Difficulties Encountered
 
+Some of the challenges we encountered were working with the filters on the main dataset in Excel. Having to make sure that everything was unfiltered before doing any action was a bit inconvenient, and led to a few instances where unforseen problems popped up. In addition it wasn't always clear what data was being pulled into each worksheet because of the way the filters in Excel work. 
+
 ## Results
 
 <!-- - What are two conclusions you can draw about the Outcomes based on Launch Date? -->
+It is pretty clear from the chart visualizing outcomes based on launch date that campaigns starting in May have the best chances of meeting their goals. Also, while the number of campaigns that succeeds has a very definite peak in May, the number of campaigns that fail is fairly consistent throughout the year. From what we can see in the data it would be best for Louise to start her campaign in late spring or early summer to giver her play the best chance of being fully funded. 
 
 <!--- What can you conclude about the Outcomes based on Goals? -->
+For the most part when we look at outcomes based on goals we see what is expected, as the goal amount increases the chances of a campaign succeeding decreases. However as can be seen in figure 2 once the goal amount is greater than $30,000 the relationship appears to fall apart. This could possibly be due to a smaller number of campaigns being started with those higher goals, but as the graph shows percentage of total it isn't possible to say from the graph alone. 
 
 <!--- What are some limitations of this dataset? -->
+Since Kickstarter hasn't been around for more than a couple decades the records of campaigns available doesn't span a very large amount of time. Additionally, before 2014 in our dataset there is only a handful of campaigns available to look at the data for. The latest year for the data set is only 2017, so we are really only looking at a four or five year time period of data. Another limitation of the dataset is that while it includes the country of the kickstarter campaign, the United States is large enough that it would be helpful if there was a sub-dimension for the state the campaign is based in. While for some categories of campaign this won't make a difference, for something like theater there could be different outcomes depending on where the play starts. 
 
 <!--- What are some other possible tables and/or graphs that we could create? -->
+Some other pieces of the data we could take a look at would be to look at the relationship between outcome and staff picks and spotlights. It's possible that increasing the awareness of a campaign through those means could have a large effect on the outcome of the campaign. A graph relating average donation to outcome would also be beneficial to have to compare to the graph for pledge goal to outcome in order to see whether donation amount has any correlation with outcome. Additionally since kickstarter pledges are usually suggested in discrete amounts, often with differing rewards based on the size of the pledge, it could help Louise to determine how she should structure her campaign.
